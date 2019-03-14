@@ -1,0 +1,17 @@
+#jumbo {
+
+	background-image: url("../images/nice.jpg");
+	background-size: contain;
+	margin: 0;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-style: italic;
+    color: #BC8F8F;
+
+}
+
+footer {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-style: italic;
+    color: #696969;
+    font-size:16px;
+}
